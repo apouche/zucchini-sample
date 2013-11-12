@@ -2,6 +2,6 @@ app: './build/zucchini-sample.app'
 
 devices:
   Simulator:
-    screen: simple-test
+    screen: retina_ios7
     default: true
     simulator: iPhone (Retina 4-inch)
